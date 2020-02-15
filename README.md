@@ -69,6 +69,13 @@
 
 
             </div>
+	   
+	   <h2>Web Hosting</h2>
+<p>En palabras simples, un web hosting es un servicio que permitirá que tu página web sea vista por cualquiera otra persona con una conexión a internet.
+Un servicio de web hosting es la renta de un espacio dentro de un servidor que está en línea 24/7. De esta forma jamás estarás sin presencia en la red.
+Un servidor no es una computadora configurada para estar encendida siempre. Esta computadora está en un lugar seguro donde la temperatura es baja para no sufrir ningún tipo de apagón por calentamiento.</p>
+<p>Mi enlace en el drivetoweb es: https://fm9ywutqjz8d5qmcdydfpa-on.drv.tw/WEB/ </p> <br>
+<p>Y mi enlace en github.io es: https://MariodelaMora.github.io </p>
 </body>
 
 </html>
