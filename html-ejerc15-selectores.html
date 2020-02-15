@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Selectores</title>
+</head>
+<body>
+<style>
+*{padding: 5px; margin: 5px;}
+.clase{color: rgb(224, 9, 224);}
+#id{color: rgb(15, 238, 15);}
+.lista{padding: 5;margin: 7;}
+em,h1{background-color: rgb(125, 230, 20);}
+ol li{background-color: rgb(240, 135, 97);}
+strong:hover{background-color: rgb(47, 75, 231);}
+
+</style>
+<h1>Tipos de selectores que entran en el examen</h1>
+<h2>Selector: Clase</h2>
+<p class="clase">El selector clase nos permite aplicar un estilo poniendo class="nombre", y el estilo se aplicará a todos los elementos que tengan ese nombre en su clase como en este caso que pondré este párrafo en rosa gracias a la clase.
+</p>
+<h2>Selector: Identificador</h2>
+<p id="id">El selector id nos permite aplicar un estilo a todos los elementos que tengan (id="algo") el mismo id en este caso lo aplicaré en este párrafo con el color verde.</p>
+<h2>Selector: Todos los elementos</h2>
+<p>El selector todos los elementos(*) se aplica al principio de la página y aplica un estilo a TODOS los elementos de la página pero si luego se aplica otro estilo ,por ejemplo a un párrafo, el último prevalece sobre el "*" (todos los elementos).<br>
+El ejemplo que he puesto para este caso es que aplique al principio para que todos los elementos tengan margen y relleno entre ellos de 5 píxeles.</p>
+<h2>Selectores varios: p , em , h1 , h2, ...</h2>
+<p>Sirve para poniendo <em>varios elementos</em> entre comas se les apilcaráun mismo estilo a todos ellos el  el ejemplo es el color del fondo verde de los elementos entre las comas que en este caso son los elementos h1 y em</p>
+<h2>Selectores contenidos en otros selectores: ol li</h2>
+<p>Se utilizan para aplicarle un estilo a un elemento que esté dentro de otro y el ejemplo es la lista ordenada de a continuación.</p>
+<ol>
+    <li>Mañana</li>
+    <li>Tarde</li>
+    <li>Noche</li>
+</ol>
+</p>
+<h2>Selector: Sobrevuleo (p:hover)</h2>
+<p>Se utiliza para que un elemento que hayamos seleccionado al pasar el cursior por encima de eél cambie su estilo al que elijamos,<strong>en éste caso el ejemplo es esta oración en negrita que al pasar el cursor su fondo cambiará a azul.</strong></p>
+
+
+</body>
+</html>
