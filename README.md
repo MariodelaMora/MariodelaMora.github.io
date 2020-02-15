@@ -6,7 +6,7 @@
 	<title>Mi Web</title>
 	<style>
 		#presentacion {
-			background-color: #ff67ff;font-family: verdana;
+			background-color: #ff67ff;font-family: times;
 		}
 
 		#html {
@@ -14,7 +14,7 @@
 		}
 
 		#css {
-			background-color: #6889f5;font-family: sans-serif ;
+			background-color: #6889f5;font-family: verdana;
 		}
 
 		#centrado {text-align:center; 
