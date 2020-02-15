@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -39,33 +38,33 @@
 
 			<h2>Mis ejercicios de introducción HTML</h2>
 			<div id="centrado">
-             <a href="html-ejerc1-intro.html">html-ejerc1-intro.html</a> <br>
+             <a href="html-ejerc1-intro.html">Ejercicio 1</a> <br>
              
-             <a href="html-ejerc2-poema.html">html-ejerc2-poema.html</a> <br>
+             <a href="html-ejerc2-poema.html">Ejercicio 2</a> <br>
 
-			 <a href="html-ejerc3-enfasis.html">html-ejerc3-enfasis.html</a> <br>
+			 <a href="html-ejerc3-enfasis.html">Ejercicio 3</a> <br>
 
-			 <a href="html-ejerc4-listas.html">html-ejerc4-listas.html</a> <br>
+			 <a href="html-ejerc4-listas.html">Ejercicio 4</a> <br>
 
-			 <a href="html-ejerc5-utf-8.html">html-ejerc5-utf-8.html</a> <br>
+			 <a href="html-ejerc5-utf-8.html">Ejecicio 5</a> <br>
 
-			 <a href="html-ejerc6-img.html">html-ejerc6-img.html</a> <br>
+			 <a href="html-ejerc6-img.html">Ejercicio 6</a> <br>
 
-			 <a href="html-ejerc7-viaje.html">html-ejerc7-viaje.html</a> <br>
+			 <a href="html-ejerc7-viaje.html">Ejercicio 7</a> <br>
 			</div>
 		</div>
 			<div id="css">
 				<h2>Ejercicios Introducción</h2>
 				<div id="centrado">
-                    <a href="html-ejerc8-color.html">html-ejerc8-color.html</a> <br>
-                    <a href="html-ejerc9-criatura.html">html-ejerc9-criatura.html</a> <br>
-                    <a href="html-ejerc10-criatura2.html">html-ejerc10-criatura2.html</a> <br>
-                    <a href="html-ejerc11-formato.html">html-ejerc11-formato.html</a> <br>
-                    <a href="html-ejerc12-Olafs.html">html-ejerc12-Olafs.html</a> <br>
-                    <a href="html-ejerc13-clases.html">html-ejerc13-clases.html</a> <br>
-                    <a href="html-ejerc14-desafío-clases.html">html-ejerc14-desafío-clases.html</a> <br>
-                    <a href="html-ejerc15-selectores.html">html-ejerc15-selectores.html</a> <br>
-                    <a href="html-ejerc16.html">html-ejerc16.html</a> <br>
+                    <a href="html-ejerc8-color.html">Ejercicio 8</a> <br>
+                    <a href="html-ejerc9-criatura.html">Ejercicio 9</a> <br>
+                    <a href="html-ejerc10-criatura2.html">Ejercicio 10</a> <br>
+                    <a href="html-ejerc11-formato.html">Ejercicio 11</a> <br>
+                    <a href="html-ejerc12-Olafs.html">Ejercicio 12</a> <br>
+                    <a href="html-ejerc13-clases.html">Ejercicio 13</a> <br>
+                    <a href="html-ejerc14-desafío-clases.html">Ejercicio 14</a> <br>
+                    <a href="html-ejerc15-selectores.html">Ejercicio 15</a> <br>
+                    <a href="html-ejerc16.html">Ejercicio 16</a> <br>
 				</div>
 
 
