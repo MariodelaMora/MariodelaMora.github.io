@@ -54,7 +54,7 @@
 			</div>
 		</div>
 			<div id="css">
-				<h2>Ejercicios Introducción</h2>
+				<h2>Ejercicios Introducción CSS</h2>
 				<div id="centrado">
                     <a href="html-ejerc8-color.html">Ejercicio 8</a> <br>
                     <a href="html-ejerc9-criatura.html">Ejercicio 9</a> <br>
