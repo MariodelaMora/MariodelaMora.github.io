@@ -46,7 +46,7 @@
 
 			 <a href="html-ejerc4-listas.html">Ejercicio 4</a> <br>
 
-			 <a href="html-ejerc5-utf-8.html">Ejecicio 5</a> <br>
+			 <a href="html-ejerc5-utf-8.html">Ejercicio 5</a> <br>
 
 			 <a href="html-ejerc6-img.html">Ejercicio 6</a> <br>
 
