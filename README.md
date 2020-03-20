@@ -65,6 +65,10 @@
                     <a href="html-ejerc14-desafío-clases.html">Ejercicio 14</a> <br>
                     <a href="html-ejerc15-selectores.html">Ejercicio 15</a> <br>
                     <a href="html-ejerc16.html">Ejercicio 16</a> <br>
+		    <a href="html-ejerc18-vinculos.html">Ejercicio 18</a><br>
+		    <a href="html-ejerc19-vinculos_internos.html">Ejercicio 19</a> <br>
+		    <a href="html-ejerc20-tabla.html">Ejercicio 20</a> <br>
+		    <a href="html-ejerc21-proyecto_recetas">Ejercicio 21</a> <br>
 				</div>
 
 
