@@ -33,7 +33,7 @@
         <p>Mis aficiones son jugar y ver fútbol, hacer deporte en general, también me encanta jugar a los videojuegos en mis tiempos libres y salir de fiesta con mis amigos.</p>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl2u9pYt20-diwbTt-ULdCyEMDn_cFUFwllqw7cjJqJZyhBN25&s" width="250" height="230">
     </div>
- <div id="enlaces">
+<div id="enlaces">
     <h2>Enlaces a los ejercicios</h2>
   
     <ol>
@@ -42,7 +42,7 @@
         <li><a href="#mas"> Ejercicios Mas Etiquetas</li>
     </ol>
   
- </div>
+</div>
 
 
 
