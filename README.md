@@ -37,9 +37,9 @@
     <h2>Enlaces a los ejercicios</h2>
   
     <ol>
-        <li><a href="#html"> Ejercicios HTML</li>
-        <li><a href="#css"> Ejercicios CSS</li>
-        <li><a href="#mas"> Ejercicios Mas Etiquetas</li>
+        <li><a href="#html"> Ejercicios HTML</a></li>
+        <li><a href="#css"> Ejercicios CSS</a></li>
+        <li><a href="#mas"> Ejercicios Mas Etiquetas</a></li>
     </ol>
   
 </div>
