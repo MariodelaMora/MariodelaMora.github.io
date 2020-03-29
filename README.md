@@ -136,14 +136,6 @@
      <p><strong><a href="#presentacion">Volver al inicio</a></strong></p>
 </div>
 </section>
-
-
-
-
- </div>
-
-
-
  <section>
  <h2>Web Hosting</h2>
  <p>En palabras simples, un web hosting es un servicio que permitirá que tu página web sea vista por cualquiera otra persona con una conexión a internet.
