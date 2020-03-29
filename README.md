@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <title>Mi Web</title>
     <style>
-	    a:hover {background-color: blue;color: white;}
     
      #html {
 		background-color: #add660;font-family: monospace;}
@@ -33,12 +32,13 @@
         left: 50%;
         transform: translate(-50%, -50%);
         color: white;}
-     
+     #sem{background-color: aqua;}
      #enlaces{background-color: rgb(104, 166, 248);}
      a:link{color: rgb(255, 0, 0);background-color: rgb(197, 131, 131);}
      a:visited{color: rgb(25, 0, 255);background-color: rgb(209, 124, 124);}
      li{color: rgb(0, 0, 0);}
      strong{font-family:'Times New Roman', Times, serif ;}
+
     </style>
 </head>
 <body>
@@ -62,6 +62,7 @@
         <li><a href="#html"> Ejercicios HTML</a></li>
         <li><a href="#css"> Ejercicios CSS</a></li>
         <li><a href="#mas"> Ejercicios Mas Etiquetas</a></li>
+        <li><a href="#sem">Ejercicios Web Semántica</a></li>
      </ol>
   </div>
   </nav>
@@ -126,6 +127,23 @@
     <p><strong><a href="#presentacion">Volver al inicio</a></strong></p>
  </div>
  </section>
+ <section>
+ <div id="sem">
+     <h2>Mis ejercicios de Web Semántica CSS</h2>
+     <center>
+     <a href="html-ejerc23-videos">Ejercicio 23</a> <br>
+     </center>
+     <p><strong><a href="#presentacion">Volver al inicio</a></strong></p>
+</div>
+</section>
+
+
+
+
+ </div>
+
+
+
  <section>
  <h2>Web Hosting</h2>
  <p>En palabras simples, un web hosting es un servicio que permitirá que tu página web sea vista por cualquiera otra persona con una conexión a internet.
